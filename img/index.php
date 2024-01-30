@@ -85,7 +85,7 @@
     <!-- SECTION ABOUT-->
     <section id="about" class="about">
         <div class="container">
-            <img src="img/banner.jpg" width="100%">
+            <img src="img/tech-computer.jpg" width="100%">
             <h3>ABOUT</h3>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. <strong>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</strong>, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. <strong>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</strong>, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
@@ -123,7 +123,7 @@
     <section id="portfolio" class="portfolio">
         <div class="container">
             <h3>My Projek</h3>
-            <img src="img/gammbar.jpg" width="100%">
+            <img src="img/ilustrasi-gambar.jpg" width="100%">
             <p>Menggambar membutuhkan koordinasi antara penglihatan dan gerakan tangan, serta dilakukan untuk mewujudkan suatu gagasan yang dituangkan dalam bentuk gambar menggunakan alat atau bahan tertentu.</p>
             <p>Membuat sketsa dan menggambar adalah cara yang bagus untuk meningkatkan keterampilan kreatif Anda dan mulai berpikir dengan cara yang berbeda. Seni menunjukkan kepada Anda bahwa biasanya ada lebih dari satu cara untuk memecahkan masalah. Seni mendorong pemikiran dan kreativitas terbuka. Ini bisa sangat membantu untuk pengembangan pribadi dan memecahkan masalah.</p>
 
