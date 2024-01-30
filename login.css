@@ -7,7 +7,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f4f4f4;
-    background-image: url('img/backgroun.jpg'); /* Ganti 'path/to/your/image.jpg' dengan path gambar Anda */
+    background-image: url('img/hitampekat.jpg'); /* Ganti 'path/to/your/image.jpg' dengan path gambar Anda */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
